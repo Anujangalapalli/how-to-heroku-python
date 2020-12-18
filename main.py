@@ -34,8 +34,8 @@ h1, h2, strong {
 </head>
 
 <body>
-  <h2>The Schooner</h2>
-  <p><img src="http://www.marinemodelartist.com/Mary_Taylor/Mary_Taylor_files/shapeimage_4.png"</p>
+  <h1>Python</h1>
+  <p><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&imgrefurl=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&tbnid=XmmuGvoln--UuM&vet=12ahUKEwjM6YDWkNjtAhUQON8KHW5FBlMQMygDegUIARDRAQ..i&docid=k36Oe0TGOvdiNM&w=1200&h=1200&q=python%20image&ved=2ahUKEwjM6YDWkNjtAhUQON8KHW5FBlMQMygDegUIARDRAQ"</p>
 <p>What is Python? Executive Summary</p>
 
 <p>
