@@ -36,25 +36,36 @@ h1, h2, strong {
 <body>
   <h2>The Schooner</h2>
   <p><img src="http://www.marinemodelartist.com/Mary_Taylor/Mary_Taylor_files/shapeimage_4.png"</p>
-<p>This is a schooner.</p>
+<p>What is Python? Executive Summary</p>
 
 <p>
-A schooner (/ˈskuːnər/) is a type of sailing vessel defined by its 
-rig: fore-and-aft rigged on all of 2 or more masts and, in the case 
-of a 2 masted schooner, the foremast generally being shorter than 
-the mainmast. A common variant, the topsail schooner also has a 
-square topsail on the foremast, to which may be added a topgallant 
-and other square sails, but not a fore course, as that would 
-make the vessel a brigantine. Many schooners are gaff-rigged, but 
-other examples include Bermuda rig and the staysail schooner.
+Python is an interpreted, object-oriented, high-level programming language 
+with dynamic semantics. Its high-level built in data structures, 
+combined with dynamic typing and dynamic binding, 
+make it very attractive for Rapid Application Development, 
+as well as for use as a scripting or glue language to connect existing components together. 
+Python's simple, easy to learn syntax emphasizes readability and 
+therefore reduces the cost of program maintenance. 
+Python supports modules and packages, which encourages program modularity and code reuse. 
+The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, 
+and can be freely distributed.
 </p>
-<h2>The Origins of the Type and the Name</h2>
+<h2></h2>
 <p>
-The origins of schooner rigged vessels is obscure, but there is 
-good evidence of them from the early 17th century in paintings by 
-Dutch marine artists. The name "schooner" first appeared in eastern 
-North America in the early 1700s. The name may be related to a 
-Scots language word meaning to skip over water, or to skip stones.
+Often, programmers fall in love with Python because of the increased productivity 
+it provides. Since there is no compilation step, 
+the edit-test-debug cycle is incredibly fast. 
+Debugging Python programs is easy: a bug or bad input will never 
+cause a segmentation fault. Instead, when the interpreter discovers an error, 
+it raises an exception. When the program doesn't catch the exception, 
+the interpreter prints a stack trace. 
+A source level debugger allows inspection of local and global variables, 
+evaluation of arbitrary expressions, setting breakpoints, 
+stepping through the code a line at a time, and so on.
+The debugger is written in Python itself, 
+testifying to Python's introspective power. 
+On the other hand, often the quickest way to debug a program is to add a few print statements to the source: 
+the fast edit-test-debug cycle makes this simple approach very effective.
 </p>
 </body>
 </html>
